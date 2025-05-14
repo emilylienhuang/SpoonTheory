@@ -1,2 +1,4 @@
 # SpoonTheory
-Computational models of spoon theory
+Download the Jupyter notebook.
+Upload to GoogleColab.
+Click "Runtime" then "Run all"
